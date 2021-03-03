@@ -60,7 +60,7 @@
 .blog__details__pic {
     margin-bottom: 60px;
 
-    img {
+    ~Content/img {
         min-width: 100%;
         border-radius: 5px;
     }
@@ -174,7 +174,7 @@
     display: inline-block;
     margin-right: 15px;
 
-    img {
+    ~Content/img {
         height: 46px;
         width: 46px;
         border-radius: 50%;

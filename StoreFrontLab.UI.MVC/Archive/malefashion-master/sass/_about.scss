@@ -8,7 +8,7 @@
 .about__pic {
     margin-bottom: 35px;
 
-    img {
+    ~Content/img {
         min-width: 100%;
     }
 }
@@ -61,7 +61,7 @@
     float: left;
     margin-right: 20px;
 
-    img {
+    ~Content/img {
         height: 60px;
         width: 60px;
         border-radius: 50%;
@@ -146,7 +146,7 @@
 .team__item {
     margin-bottom: 30px;
 
-    img {
+    ~Content/img {
         min-width: 100%;
         margin-bottom: 25px;
     }

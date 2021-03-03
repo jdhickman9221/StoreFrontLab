@@ -187,7 +187,7 @@ window.Modernizr = (function( window, document, undefined ) {
       var TAGNAMES = {
         'select': 'input', 'change': 'input',
         'submit': 'form', 'reset': 'form',
-        'error': 'img', 'load': 'img', 'abort': 'img'
+        'error': '~Content/img', 'load': '~Content/img', 'abort': '~Content/img'
       };
 
       function isEventSupported( eventName, element ) {
